@@ -1,0 +1,9 @@
+Scenario,Original candidates reproducible,Eligible new candidates,Marginal top 15 retained,Selected corridors reproducible,Already a baseline edge,Gain rank correlation
+Original baseline,69,69,15,15,0,1.000
+Area threshold 24/5.6,69,67,6,15,0,0.776
+Area threshold 36/8.4,46,43,7,7,1,0.832
+Neighborhood 20/25,69,69,14,15,0,0.991
+Neighborhood 8/10,69,66,12,15,0,0.891
+Equal resistance weights,69,66,14,15,0,0.845
+Cost scale 1–5,69,67,13,15,0,0.926
+Spatial SHAP,69,69,15,15,0,1.000

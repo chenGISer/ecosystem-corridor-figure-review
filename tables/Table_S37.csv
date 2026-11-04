@@ -1,0 +1,9 @@
+Scenario,Supply / demand,SS/SD,Edge-set Jaccard similarity,Pairwise f₅₀,Binary f₅₀,Top group (n),Coverage (%)
+Original baseline,121/18,225/53,1.000,0.1679,0.7712,30,4.62
+Neighborhood 8/10,121/18,219/53,0.923,0.1630,0.7712,30,4.75
+Equal resistance weights,121/18,227/53,0.951,0.1774,0.7693,30,4.62
+Cost scale 1–5,121/18,225/53,0.958,0.1698,0.7700,30,4.62
+Area threshold 36/8.4,103/17,189/50,0.712,0.1660,0.7764,26,4.71
+Spatial SHAP,121/18,225/53,1.000,0.1678,0.7712,30,4.62
+Area threshold 24/5.6,135/24,249/71,0.694,0.1751,0.7829,34,4.43
+Neighborhood 20/25,121/18,228/53,0.968,0.1689,0.7712,30,4.61

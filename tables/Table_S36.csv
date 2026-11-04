@@ -1,0 +1,5 @@
+Feature,Count,Total amount,Unit,Protected amount,Coverage (%),Zero overlaps (n)
+Baseline top 30 sources,30,20649.63,km²,954.19,4.62,22
+Access-refined top 30 sources,30,20324.16,km²,928.45,4.57,23
+Exact binary-optimal corridors,15,588.96,km,9.73,1.65,14
+Access-refined corridors,15,585.33,km,9.73,1.66,14
